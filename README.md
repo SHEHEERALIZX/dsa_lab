@@ -7,7 +7,11 @@ Created by SHEHEER ALI
 
 More edits
 
+<<<<<<< HEAD
 Testing Completed
 
 
 Editing from Gitkrarkem
+=======
+Testing Completed
+>>>>>>> development
